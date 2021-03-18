@@ -5,7 +5,7 @@ on the following algorithm:
 2. If the number is divisible by 5, display “Bronco”.
 3. If the number is divisible by both 3 and 5, display “MustangBronco”
 4. For all other numbers, display the number itself.
-5. 
+
 Examples:
 Input Integer Displayed String
 2 2
